@@ -1,0 +1,18 @@
+.banner2 a {
+  display: flex;
+  flex-direction: column;
+  
+  color: brown;
+  text-align: center;
+}
+
+.banner2 img {
+  height: 50px;
+  width: 50px;
+  padding: 10px;
+}
+
+.banner3 a{
+  margin: 10px;
+  color: brown;
+}
